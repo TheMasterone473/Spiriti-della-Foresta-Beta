@@ -1,0 +1,7 @@
+{
+  "name": "Spiriti della Foresta",
+  "description": "An atmospheric, dark-fantasy card game inspired by Inscryption. Face off against the mysterious Forest Warden in a tactical battle of sacrifices and ancient spirits.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
